@@ -10,6 +10,8 @@
                 "ms-python.python", //microsoft python extension
                 "ms-python.vscode-pylance", //python language support (intellisense, etc.)
                 "KevinRose.vsc-python-indent", //python indentation helper
+                "ms-python.black-formatter", //python formatter (helps with auto indenting on save)
+                "mechatroner.rainbow-csv", //csv highlighter for "rows" of data
                 "yzhang.markdown-all-in-one", //Markdown All in One: advanced markdown support
                 "hediet.vscode-drawio", //Draw.io Integration: support for .drawio files from diagrams.net
                 "oderwat.indent-rainbow", //indent-rainbow: colorizes indentation for easier reading

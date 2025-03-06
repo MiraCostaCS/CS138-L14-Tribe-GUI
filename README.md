@@ -2,8 +2,7 @@
 Project Description
 
 ## Tips/Notes
-Heads up that the .gitignore file here is for Java specifically! Edit as necessary for your language. Same with devcontainer and setting JSON files, they are customized for GitHub Codespaces use
-
+Heads up that the .gitignore file here is for Python specifically! Make sure to review in case you need to update python image version or add/remove extensions
 ## Part 1: Title
 Guidance for this part
 
